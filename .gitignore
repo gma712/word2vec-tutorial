@@ -1,0 +1,6 @@
+*.pyc
+.python-version
+
+wiki.model
+wiki.model.trainables.syn1neg.npy
+wiki.model.wv.vectors.npy
